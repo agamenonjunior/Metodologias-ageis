@@ -1,5 +1,7 @@
 # Metodologias ágeis
 
+- Principios(12) :
+
 ## Scrum
 
 ## XP (Extreme Programming)
