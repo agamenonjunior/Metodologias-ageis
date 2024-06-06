@@ -31,6 +31,25 @@
 ## Scrum
 Metodologia Ágil que utiliza ciclos fixos de trabalhos (Sprints) enfatiza a transparência, Inspeção e Adaptação (TIA)
 
+#### Valores:
+- Coragem
+- Foco
+- Comprometimento
+- Respeito
+- Abertura 
+
+#### Papéis (3):
+- Developers
+- Scrum Master
+- Product Owner (PO)
+
+#### Artefatos (3):
+- Product Backlog = Lista de Prioridades Feita pelo PO
+- Sprint Backlog  = Meta da Sprint. É uma ferramenta visual para mostrar a toda a equipe o trabalho a ser desenvolvido
+- Product Increment = Definição de Pronto
+
+[Gráfico de Burndown]  = Gráfico utilizado para rastrear o progresso da equipe durante a Sprint, o eixo vertical representa o total de horas a ser feitas e vai decaindo até 0, no eixo horizontal é o total de dias.
+
 ## Kanban
 
 
