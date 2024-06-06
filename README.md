@@ -40,8 +40,16 @@ foco na excelência técnica, comunicação direta e satisfação do cliente.
 ### As práticas XP recomendas para as equipes de desenvolvimento são:
 
  - Programação em pares;
- - Desenvolvimento orientado a teste;
+ - Desenvolvimento orientado a teste (TDD);
  - Integração contínua;
+
+### Princícios Fundamentais:
+ - Comunicação   = comunicação face a face
+ - Simplicidade  = Evitar o excesso de planejamento
+ - FeedBack      = Testes contínuos, revisões de código e a entrega frequente
+ - Coragem       = Fazer mudanças no projeto
+ - Respeito      = Os membro da equipe devem respeitar cada colaração
+
 
 ## FDD (Feature Driven Development)
 
