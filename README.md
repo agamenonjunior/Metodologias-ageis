@@ -50,6 +50,13 @@ Metodologia Ágil que utiliza ciclos fixos de trabalhos (Sprints) enfatiza a tra
 
 [Gráfico de Burndown]  = Gráfico utilizado para rastrear o progresso da equipe durante a Sprint, o eixo vertical representa o total de horas a ser feitas e vai decaindo até 0, no eixo horizontal é o total de dias.
 
+### Eventos e Cerimônias
+- Sprint
+- Planejamento da Sprint
+- Reunião Diária
+- Revisão da Sprint 
+- Retrospectiva da Sprint
+
 ## Kanban
 
 
