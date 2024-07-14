@@ -78,6 +78,13 @@ foco na excelência técnica, comunicação direta e satisfação do cliente.
 
 
 ## FDD (Feature Driven Development)
+- Desenvolvimento orientado a Funcionalidades/Características
+- possui 2 fase e 5 processos:
+    - Fase 1 – Concepção & Planejamento:
+    - Desenvolver um modelo abrangente;
+    - Construir uma Lista de Funcionalidades
+    - Planejar por Funcionalidade
+ 
 
 ## DMA (Model Driven Architecture)
 
@@ -88,4 +95,6 @@ foco na excelência técnica, comunicação direta e satisfação do cliente.
 
 
 ## MDD (Model Driven Design)
+-  Seu principal intuito é desenvolver sistemas de modo muito abstrato, fácil de escrever e rápido de produzir !
+- Utiliza um modelo para criar um produto de software.
 
