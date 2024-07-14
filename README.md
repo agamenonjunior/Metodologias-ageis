@@ -81,5 +81,11 @@ foco na excelência técnica, comunicação direta e satisfação do cliente.
 
 ## DMA (Model Driven Architecture)
 
+- Arquitetura orientada a Modelo !
+- Inicia-se com um modelo abstrato até chegar ao código fonte da maneira mais automatizada possíve (PMI) -  Platform-Independent Model;
+- Na segunda etapa ocorre o refinamento - Modelo mais concreto - (PSM) – Platform Specific Model
+- Por fim o PSM é refinado e termina a produção do código fonte de preferência de forma automática.
+
+
 ## MDD (Model Driven Design)
 
